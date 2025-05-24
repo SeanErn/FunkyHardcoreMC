@@ -1,0 +1,16 @@
+name = "FunkyHardcoreMC"
+author = "FunkyChickenMC"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b7eb1ad02f67a94b0283bba9d4b0deaee95e38241c3b2a7eebc1c8b522620a40"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = []

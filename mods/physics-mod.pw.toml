@@ -1,0 +1,7 @@
+name = "Physics Mod"
+filename = "file"
+
+[download]
+url = "https://www.patreon.com/file?h=125857963&m=462276582"
+hash-format = "sha256"
+hash = "344164656c45050b087a74fb7eab580a9b9bc3d580e02b58be18d087513bba6a"

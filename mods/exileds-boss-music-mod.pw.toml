@@ -1,0 +1,13 @@
+name = "Boss Music Mod/Datapack"
+filename = "Boss Music Mod 1.21.x v1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AE4o3Hmb/versions/jBpzSz5J/Boss%20Music%20Mod%201.21.x%20v1.2.1.jar"
+hash-format = "sha512"
+hash = "cd104db18b00080f55f80f3c6cee7e73dac92a21a7ed3b4f8ecc0f35716bd24c6a6ac5112b9d3890abf0d9df40fd208bf4bbd34c786ce32c2cf6f19202b1f939"
+
+[update]
+[update.modrinth]
+mod-id = "AE4o3Hmb"
+version = "jBpzSz5J"

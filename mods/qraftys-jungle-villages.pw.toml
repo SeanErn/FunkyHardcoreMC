@@ -1,0 +1,13 @@
+name = "qrafty's Jungle Villages"
+filename = "qraftys-jungle-villages-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qSvzu3X3/versions/BfBjlAYN/qraftys-jungle-villages-2.2.jar"
+hash-format = "sha512"
+hash = "eee26231080feb1319501e517fff298df2928468189eca2c332ff411772eb172ecf48225666e7d0597bb85fbbe5599c43bf5555f51e0ac567965e10b889bc16d"
+
+[update]
+[update.modrinth]
+mod-id = "qSvzu3X3"
+version = "BfBjlAYN"
