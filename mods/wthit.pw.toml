@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/A5IXlWt0/wthit-fabric-12.5.3.jar"
-hash-format = "sha256"
-hash = "0ee1fa79850ccb9ecdcd83ea1b0663de6123d8576fd141c5206227f885f61a46"
+hash-format = "sha512"
+hash = "7be92b80edefbaff90004eda563b9ffd2e7247b99b9b6c179a236c2377cebd8c6964575dcbac861a2d0f4bc9b715dad7e14602d3dd3ba5fe9229e52c5fbdbcfe"
 
 [update]
 [update.modrinth]
