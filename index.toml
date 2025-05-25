@@ -200,11 +200,6 @@ hash = "252ac86444e788cf1f357ff39a970745264941501e4cdd5b0f5d9bb6e9af2b0a"
 metafile = true
 
 [[files]]
-file = "mods/waygl.pw.toml"
-hash = "3a10bf740868356183b35b800539cf76cb9cbaee1d0087b04da2c2ed3b7ff2b9"
-metafile = true
-
-[[files]]
 file = "mods/worldweaver.pw.toml"
 hash = "8cc3372ea23cdcc7da94d43d0b607f841ade1d0a25ada48bfba3714f6485c516"
 metafile = true
