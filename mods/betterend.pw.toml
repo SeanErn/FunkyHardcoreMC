@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gc8OEnCC/versions/4qhBEg6J/better-end-21.0.11.jar"
-hash-format = "sha512"
-hash = "d3094b88202fca1ccc055e8429eac42eac1bd696a82ed650a9f1426cd5b28bd08e0af4d41664ed3fad10d8477c6da7c6be9d626a5664cfbc664844355c97c5b1"
+hash-format = "sha256"
+hash = "b6300dad6b92eb5810008695e55b615f724b4d082a711c94f0d9941a1784cfd6"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/CTJn5mVm/versions/dwLyuwo1/music_delay_reducer-fabric-2.1.1%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "e2b04109c7596162e729cff8383a0e9f99e5bb6afd04985cf206872ce464273c40b6dcdabbeb8ac27254f2dcc11b630b03ac0773953bf8b3405db6dec74405d5"
+hash-format = "sha256"
+hash = "2a5dd5b6f544947da0923f354f9fa5ab8168cc2dd8eae02fecd8546ef4643302"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/XTzhksrl/versions/xABa9uGP/waygl-fabric-1.1.6-dev.jar"
-hash-format = "sha512"
-hash = "d71fa1981c9a69280e4cff14e8d5940aa24c8256a77306f235fbe3e5aa12927668a5ad1e980f204cd85b00cf7e8c089d1f66b9fb0c069f3ad4214aaf8eed23b6"
+hash-format = "sha256"
+hash = "75a25c6cd17eaea4ee93eb6dab12bf6afc2f1193845fb67438854cba5a88b54a"
 
 [update]
 [update.modrinth]

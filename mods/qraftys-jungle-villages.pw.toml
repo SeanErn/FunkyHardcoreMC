@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qSvzu3X3/versions/BfBjlAYN/qraftys-jungle-villages-2.2.jar"
-hash-format = "sha512"
-hash = "eee26231080feb1319501e517fff298df2928468189eca2c332ff411772eb172ecf48225666e7d0597bb85fbbe5599c43bf5555f51e0ac567965e10b889bc16d"
+hash-format = "sha256"
+hash = "c1d2a130647fefc6c8660a0c5c07e96a37baea629a4362944cf5205b2fbb63e4"
 
 [update]
 [update.modrinth]
