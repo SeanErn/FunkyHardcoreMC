@@ -3,5 +3,5 @@ filename = "file"
 
 [download]
 url = "https://www.patreon.com/file?h=125857963&m=462276582"
-hash-format = "sha256"
-hash = "344164656c45050b087a74fb7eab580a9b9bc3d580e02b58be18d087513bba6a"
+hash-format = "sha512"
+hash = "5d35be9ef94550b19c278d84f2eaed4f81647348ecb5bff953183effa7be482eb3e81290bf5f5177a8dfd71b7a2b05ccd44ee99204b6cd2570a50ed249e6fcb1"

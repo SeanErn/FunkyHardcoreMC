@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/T0Zb6DLv/versions/FsUxelgj/textile-0.16.0%2B1.21.1-fabric.jar"
-hash-format = "sha256"
-hash = "bf838e801fb88647e47025c19cd06f284d765d8184d9934128a26a6a677f41aa"
+hash-format = "sha512"
+hash = "7c09b56be7cb1f60fddd9c900960ba73c26e42474f2a8da140cc9b1b39039299b8bc29f1119e8e448888862aefd7de2f517a2ff9f132ded2f6ff451f144ca22c"
 
 [update]
 [update.modrinth]

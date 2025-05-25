@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MpzVLzy5/versions/M1o6hR2m/better-nether-21.0.11.jar"
-hash-format = "sha256"
-hash = "b4608071ff59d59fb9352f13774c5423b0e2eb00df21ce8986434404e6f67433"
+hash-format = "sha512"
+hash = "93a5b45e4abcb27af6a8e8f662db9fd4115dfbb9e17adbce642f2217f5d09b48474d6b9e12b0673bdc663668e8d0d71b8fa23307c96c06176df55c090623a00c"
 
 [update]
 [update.modrinth]
