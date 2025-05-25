@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AhcCiL7x/versions/Cvc7c7rN/pumpkin_pie_delight-1.0.2%2B1.21.jar"
-hash-format = "sha512"
-hash = "1a570b21a772c3a282df866bc2da997e8f7ef47eeb691a5f2ed60f148bfa9ea464249656c60d5ddf96f6e6cf18b08d09aba7c0aa15357e0c1ae0d95db1defa95"
+hash-format = "sha256"
+hash = "d451d5255eb01c5c493f563af79c44fb96f67d2fdc5ccc6c085e9218089375bf"
 
 [update]
 [update.modrinth]
