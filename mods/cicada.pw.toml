@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IwCkru1D/versions/Rc7ndpKI/cicada-lib-0.13.0%2B1.21-1.21.1.jar"
-hash-format = "sha512"
-hash = "3d8a2ef0f927679dd9766d3b3094c2e8116b4a40066612c509788ca997fc946f49626e621c2a53b66403a959762df8c44c69291e2e230ce911d1a01520934543"
+hash-format = "sha256"
+hash = "67020cacd8916e27a5544fd8ea096a51679d8476d6f8a2daae2ee715e5440ae6"
 
 [update]
 [update.modrinth]

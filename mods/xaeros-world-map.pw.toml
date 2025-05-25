@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NcUtCpym/versions/3XtBvLkH/XaerosWorldMap_1.39.9_Fabric_1.21.jar"
-hash-format = "sha512"
-hash = "0780efbcf18e4174e15ae540387f16cac5e68b39c728bb523805af4e7485de72cdf0587d488116743fffdd12546adc8e4b37b27a85a70406ff5527abe85a3267"
+hash-format = "sha256"
+hash = "c1507799e31b55264197431f1b6139650303b430093c89bb0a2d9901740b5a7c"
 
 [update]
 [update.modrinth]

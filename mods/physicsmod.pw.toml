@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/7Vh1EsQU/physics-mod-3.0.22-mc-1.21.1-fabric.jar"
-hash-format = "sha512"
-hash = "4581222a5d82f053992d884b31abe604f1fb08a4b225f4ea6ca17ae3531ec214ded1936ee60de0233affc987ad7a3b8091d404439394ff4be7ee82a35048ef1d"
+hash-format = "sha256"
+hash = "73d0d6da5f51e83dbc5f59c587c3b2ad911213c6f351d094c3e726f7f96a9e46"
 
 [update]
 [update.modrinth]
