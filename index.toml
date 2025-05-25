@@ -5,10 +5,6 @@ file = "ico64.png"
 hash = "fd2e5c07e1bcf84db64fb8cebe46fa3a63301779e54144bc3677b0c4c525f934"
 
 [[files]]
-file = "install_mods.ps1"
-hash = "791f192a826954d4543ee87ee049d0b2559e402fd60ed741670401c664ce2a60"
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "6ff12e37227232226f2fe51c0e34386540d417d06c75cb951eac01f8947bea68"
 metafile = true
