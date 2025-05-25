@@ -1,4 +1,4 @@
-name = "FunkyHardcoreMC"
+name = "Funky Hardcore MC"
 author = "FunkyChickenMC"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,12 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c950c5a3220c6142c6d2a2e08e0b4961a4090d4a515de40fdab44e8d760a971f"
+hash = "aec9847f7abe96ee3362c6befdc9beec8f8cf1b7ac49eb258b45d58c96c2a98a"
 
 [versions]
 fabric = "0.16.14"
 minecraft = "1.21.1"
-
-[options]
-acceptable-game-versions = []
-no-internal-hashes = true
