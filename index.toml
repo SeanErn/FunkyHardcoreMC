@@ -135,6 +135,16 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/moremousetweaks.pw.toml"
+hash = "0a6fdfec07228d10602ee73c45386908328507ce8403eee8d5a028421a1b2440"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "8045180817d7b423a94fda19e3ee60f506a719412c7b427bb0fd52d1377c28b2"
 metafile = true
