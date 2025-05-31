@@ -272,3 +272,8 @@ metafile = true
 [[files]]
 file = "packwiz-installer-bootstrap.jar"
 hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "resourcepacks/double-slab-textures.pw.toml"
+hash = "6b514cf938947deeadef5da9448f35520b85e95b59542133a78d69fb6e5d9167"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Double Slabs"
+filename = "Double Slabs.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I8u3hbAH/versions/dsV0fSbR/Double%20Slabs.zip"
+hash-format = "sha512"
+hash = "b73d30ed93420d2c3a9ce640d2d8748fd8b14e0a9ca05a64900a84670521725594a4fb24129fb4cb19f00ed6e6683c8b9e1501f6b08e079959461575494e82c7"
+
+[update]
+[update.modrinth]
+mod-id = "I8u3hbAH"
+version = "dsV0fSbR"
