@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "b8447343a445fe3f8c52d20e957d71c5697b5f1d49bdff394625ce17ab9e5962"
+hash = "2195df15cde85a2ec76bb9abec09597efc304e3fd1bca08fd4027ba053d86661"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "98ea144d7937fe0e870f0f6b5c59be8233210f5c2c9fd0b8eec57dc3742ee0cb"
+hash = "a3642d02cf384305528c3d7ecdbdd8cd88a89156d4d1be057b9c9e5e4d8309b2"
 metafile = true
 
 [[files]]
@@ -180,8 +180,8 @@ hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod-pro.pw.toml"
-hash = "34d9d0ef471d771ae11e5367a1123870aca1f399a72040ec25c7c7fa92a525bd"
+file = "mods/physics-mod.pw.toml"
+hash = "d6444fbb0ee7e40d920b099ffac10677238135d6b1d267e6f78c811fc4494a57"
 metafile = true
 
 [[files]]
