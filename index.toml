@@ -60,6 +60,16 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/colorful-trims.pw.toml"
+hash = "96d9942cfd0dfd138163db7001722c9b73eb8c73adfa3b20ce6c6140a165ebb9"
+metafile = true
+
+[[files]]
+file = "mods/colorize.pw.toml"
+hash = "f49331f8f7d567784764d8b397586c90fce19f8ac92176b54a84242d84845924"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -67,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "3893f6af48ca828414b4abb2a1f42d08403477359b09836744016439cf8434d3"
+metafile = true
+
+[[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "34593159ac7cc81e3b329a23fefa5e36b9c093100dd955d898490e27cc59c6c6"
 metafile = true
 
 [[files]]
@@ -190,6 +205,11 @@ hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "6c24f9f4ebcda8b97f77993dda5eebb0baa43e244c870c895a5850987e3ce2d9"
+metafile = true
+
+[[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
 hash = "393157469fcbe7c5c797433c204f4431f733a3ce26468793bc44c4cfff4b65fd"
 metafile = true
@@ -202,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/qraftys-mangrove-villages.pw.toml"
 hash = "d5995d7c019e317f4cc216adf655087e9a450f6a656c3282955c27c5296bd4aa"
+metafile = true
+
+[[files]]
+file = "mods/simple-concrete.pw.toml"
+hash = "590b6dd3639ddadd99d2f931f65ab57355d29722e2aef5ef684115087118a33e"
 metafile = true
 
 [[files]]
@@ -232,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "7e8438329b0662463fd5d11b8af802cd6e8f3b471f4a7ef4d25d77e8ac5cca1f"
+metafile = true
+
+[[files]]
+file = "mods/unidye.pw.toml"
+hash = "c2fdb698302b4204c0be99efee039d64d8afc742b51fa6d01495f170afff054f"
 metafile = true
 
 [[files]]
