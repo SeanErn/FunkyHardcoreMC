@@ -40,6 +40,16 @@ hash = "2cf79d151d64ae6a26e037bc883c457eaec6089685df02c7474a1d130f6daaa7"
 metafile = true
 
 [[files]]
+file = "mods/beyondenchant.pw.toml"
+hash = "0170230061b6d48856a54dbb36e7a435d1128be29f93cde9156c31643811e8af"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "f877bffb5a66517083cbe91dd3e60580563bf61734dbdde71fb9c469b6added5"
+metafile = true
+
+[[files]]
 file = "mods/borderless-fullscreen.pw.toml"
 hash = "fd31f0aa0f2fbfde0579c9dcddc72d7a64c4561fb327e6dcb890110304e7fefc"
 metafile = true
@@ -105,6 +115,16 @@ hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "161123eca0678a132b41010d1c1bbefae031c54f331f4681d09466c93004431a"
+metafile = true
+
+[[files]]
 file = "mods/exileds-boss-music-mod.pw.toml"
 hash = "98ed253d1fc12e7f799f9ac5b89e6fba747cd468e48d420f6a0ce70211e98305"
 metafile = true
@@ -132,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
 metafile = true
 
 [[files]]
@@ -200,6 +225,11 @@ hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
+metafile = true
+
+[[files]]
 file = "mods/physics-mod.pw.toml"
 hash = "d6444fbb0ee7e40d920b099ffac10677238135d6b1d267e6f78c811fc4494a57"
 metafile = true
@@ -215,8 +245,18 @@ hash = "6c24f9f4ebcda8b97f77993dda5eebb0baa43e244c870c895a5850987e3ce2d9"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
+metafile = true
+
+[[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
 hash = "393157469fcbe7c5c797433c204f4431f733a3ce26468793bc44c4cfff4b65fd"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "c1cf218d3c9dbf16ec9b93ae536831fd17805def799eab72b9f79a9896f5999f"
 metafile = true
 
 [[files]]
@@ -227,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/qraftys-mangrove-villages.pw.toml"
 hash = "d5995d7c019e317f4cc216adf655087e9a450f6a656c3282955c27c5296bd4aa"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "43500505cd9ccb41d9722586a0040be415ce71b6a93758b45d8176e925bd7851"
 metafile = true
 
 [[files]]
@@ -242,6 +287,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
 
 [[files]]
