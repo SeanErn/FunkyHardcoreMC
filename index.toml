@@ -260,8 +260,8 @@ hash = "ba372906cb7fa7d3a5ef24777361a21ec940f25b8d6dcc0c39b50f70d6209790"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
+file = "mods/tool-trims-mod.pw.toml"
+hash = "7cc225779f5076919756be78cf1f8109e1cb579de1f4564556873e612a6e39e5"
 metafile = true
 
 [[files]]

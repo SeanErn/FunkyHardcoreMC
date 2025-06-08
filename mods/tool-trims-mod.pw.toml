@@ -1,0 +1,13 @@
+name = "Tool Trims Mod"
+filename = "tooltrims-1.1.2+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GqdixiwC/versions/KFHWoXX9/tooltrims-1.1.2%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ee1558355edb61a245754830e46ef2935e7500f5faf458c86eaf08230bc10889086568d0a1952eca0b44840802a5e73a9bf670eb1bbcc3eed1c15eaec8af69af"
+
+[update]
+[update.modrinth]
+mod-id = "GqdixiwC"
+version = "KFHWoXX9"
