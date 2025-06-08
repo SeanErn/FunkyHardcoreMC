@@ -1,13 +1,13 @@
 name = "Unidye"
-filename = "unidye-1.2.3+1.21-1.21.1.jar"
+filename = "unidye-1.2.4+1.21-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CpdbPVcx/versions/GHLDsNTC/unidye-1.2.3%2B1.21-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/CpdbPVcx/versions/3gnK4V2d/unidye-1.2.4%2B1.21-1.21.1.jar"
 hash-format = "sha512"
-hash = "0cbeff4b9dd7d23fe2431190fab6719572572b7f07a2e7159ffdae8fa5c6527ed79c7f02722bc65512518b9113d00fa947edd415eea19386183973d2032fece9"
+hash = "cd826950549f24da4f6c10f36ecefce70f430df4ffb21154057b77818ab642b84bbcaf8e5d21eab77e02e8990b03aa9303c9a22cb8a33e5114a808f325167241"
 
 [update]
 [update.modrinth]
 mod-id = "CpdbPVcx"
-version = "GHLDsNTC"
+version = "3gnK4V2d"

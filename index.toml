@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/unidye.pw.toml"
-hash = "c2fdb698302b4204c0be99efee039d64d8afc742b51fa6d01495f170afff054f"
+hash = "ed80acc7833df1d4be6c4b579a04846794af17bfc52d5a6c3cba28c311a78e4e"
 metafile = true
 
 [[files]]
