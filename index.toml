@@ -260,6 +260,11 @@ hash = "ba372906cb7fa7d3a5ef24777361a21ec940f25b8d6dcc0c39b50f70d6209790"
 metafile = true
 
 [[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "79d04d954184defd602ce8e5258a1179b45664729d727d5d53e2c1693f05dd00"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "7e8438329b0662463fd5d11b8af802cd6e8f3b471f4a7ef4d25d77e8ac5cca1f"
 metafile = true
