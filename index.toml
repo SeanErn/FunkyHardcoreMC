@@ -225,11 +225,6 @@ hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
-metafile = true
-
-[[files]]
 file = "mods/physics-mod.pw.toml"
 hash = "d6444fbb0ee7e40d920b099ffac10677238135d6b1d267e6f78c811fc4494a57"
 metafile = true
