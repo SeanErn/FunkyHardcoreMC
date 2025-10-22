@@ -1,13 +1,13 @@
 name = "BeyondEnchant"
-filename = "beyondenchant-1.5.0.jar"
+filename = "BeyondEnchant-1.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t2pMCVgG/versions/hIQjGO1J/beyondenchant-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/t2pMCVgG/versions/xajo0hQk/BeyondEnchant-1.6.2.jar"
 hash-format = "sha512"
-hash = "717506927a07489e22d763ddb4da2a43b4cbf136855a8de163f8f053575d85dfe4cfb1c351aa3afd7515b77d97d80b00a7bfa83c19ed8c9514bb14d442513457"
+hash = "27a1fea5ab24d8c9491e27336b1c6f123d6ade51a33852103ab97f0d18ae25eec82d77114b732a50e31c71937d9c3beaa1a113b84e02e72287e971b665b2796c"
 
 [update]
 [update.modrinth]
 mod-id = "t2pMCVgG"
-version = "hIQjGO1J"
+version = "xajo0hQk"

@@ -1,0 +1,13 @@
+name = "qrafty's Bamboo Villages"
+filename = "qraftys-bamboo-villages-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KSQGzV5B/versions/L014lQfW/qraftys-bamboo-villages-3.2.jar"
+hash-format = "sha512"
+hash = "7c9040019017c19e831c17cb80afbe9283ee82c350199efe81ada7144b0a4953f9fe7d0ce0ec675cb01521c388ee93c7015242b393f65fef62e9879bba60895d"
+
+[update]
+[update.modrinth]
+mod-id = "KSQGzV5B"
+version = "L014lQfW"

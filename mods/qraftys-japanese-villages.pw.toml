@@ -1,0 +1,13 @@
+name = "qrafty's Japanese Villages"
+filename = "qraftys-japanese-villages-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6vWz8dzn/versions/HfdrOCYE/qraftys-japanese-villages-3.2.jar"
+hash-format = "sha512"
+hash = "a2543b8538fc16629117b3b8149116e1ae7c8ff9cade106696d6d672ea23b7653c645f3e745c8dc46dd149b588433ea54b8b7f20ee83f7efba57d75ab7213d20"
+
+[update]
+[update.modrinth]
+mod-id = "6vWz8dzn"
+version = "HfdrOCYE"
