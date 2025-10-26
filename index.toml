@@ -150,6 +150,11 @@ hash = "dd9c014be7eed04ccdba9604602ee2618d1efc424e16807c9a95e319f9407d8f"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "e0ec01c5bc3591ba368bc2e91c930680fe0e60eec1f18ac3565f432eea01ee6b"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
