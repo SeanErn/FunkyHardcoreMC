@@ -215,6 +215,11 @@ hash = "e26411716d074ae7e4b61fea0233290bc43c159b7de94f4af78ca856043003a5"
 metafile = true
 
 [[files]]
+file = "mods/random-block-placement.pw.toml"
+hash = "a375492858135410cfdf95ed48272f0c295708feb706b3973a77ec687e0afc05"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "67d725bda8bdf2de7b3e60a42b281b31d3b3f6104cfd5d8b9a61309483343264"
 metafile = true
