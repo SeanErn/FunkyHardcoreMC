@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/9GYy7Ptm/elytratrims-fabric-4.4.2%2B1.21.9.jar"
-hash-format = "sha512"
-hash = "545f91eec5a88897d0df2c207b5dbe6d32fecb3a736930ff2c6f5449ee4dc59e81f4e5c545fd8bc2f0ff718c9d0c4bad6711e4856f50bb3bc54d51a23e6bdfed"
+hash-format = "sha256"
+hash = "4a0f9d5ac45c7951b3cee546924b1883c795b171cb737860027591894a9b643e"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/7qVGs8W6/enchdesc-fabric-1.21.10-21.10.1.jar"
-hash-format = "sha512"
-hash = "856d2ba2e5b21dbdec7169d2b82f240e6afb45c2ed45949fe564028a438a4980cc3b74d0330ca03ed05506455b47d9946ffe6e4421d7757dcfbec0e07f99d382"
+hash-format = "sha256"
+hash = "47781e5c3cef9482662d5a10bc70fd80c959b9706787c2f6c51f56aaa97658b3"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VSNURh3q/versions/eY3dbqLu/c2me-fabric-mc1.21.10-0.3.5.0.0.jar"
-hash-format = "sha512"
-hash = "a3422b75899a9355aa13128651ed2815ff83ff698c4c22a94ea7f275c656aff247440085a47de20353ff54469574c84adc9b428c2e963a80a3c6657fb849825d"
+hash-format = "sha256"
+hash = "3d9c57ec813765cfb3b10acc73f2dd2358e9502f65fe8bfbcf7df83ae716a600"
 
 [update]
 [update.modrinth]

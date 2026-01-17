@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WWbGcW12/versions/MR392TXz/music-disc-advancements-1.12.jar"
-hash-format = "sha512"
-hash = "77f76084d775135567af5760cdb63a59f1edbc8844ef6fb9d06fc949d6c06c5fc23dc28e04be1e49e839118ee40de8c6897ebb79c0a75a1d2300dbbef9449bc4"
+hash-format = "sha256"
+hash = "a280e03a365e473457f109000a0804beee62b1544cb62025c02d7d1b5f20152a"
 
 [update]
 [update.modrinth]

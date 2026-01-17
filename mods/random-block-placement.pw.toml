@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Peew73yt/versions/3ReJYVwp/randomblockplacement-1.0.5-1.21.9%2B1.21.10.jar"
-hash-format = "sha512"
-hash = "fa3874ea00cf60f008337d7baa19ddba819c72f9ae5d6dbbb3890a474cff3469916c23bba38d40dcc7c9cb6c9ffe8c53e07eca90919377029d886314a44e6a55"
+hash-format = "sha256"
+hash = "b4c707da72a2d611d55c42e37ec18fa2a61be5a255f0d501dcebad3777934816"
 
 [update]
 [update.modrinth]

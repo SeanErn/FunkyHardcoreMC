@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t2pMCVgG/versions/xajo0hQk/BeyondEnchant-1.6.2.jar"
-hash-format = "sha512"
-hash = "27a1fea5ab24d8c9491e27336b1c6f123d6ade51a33852103ab97f0d18ae25eec82d77114b732a50e31c71937d9c3beaa1a113b84e02e72287e971b665b2796c"
+hash-format = "sha256"
+hash = "76593d699cdcfe14ddff69e5d8c79a6a359d8d5e3f54ca146eb3f42f344178b0"
 
 [update]
 [update.modrinth]

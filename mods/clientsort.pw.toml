@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K0AkAin6/versions/yZSzBXoK/clientsort-fabric-2.1.0%2B1.21.10.jar"
-hash-format = "sha512"
-hash = "3df9925da0e84a597a59e6e62fd181e16977b1824a2cd0072b905d054ca10c99d4ace022febd08a58b97872e8d40255bd3e4daa775ebb1b5f1bd36019a66e34a"
+hash-format = "sha256"
+hash = "ff840afad91fd9334bcdf633eeb2b0eb291fd12ad7d64beb51b0048477b71d2a"
 
 [update]
 [update.modrinth]

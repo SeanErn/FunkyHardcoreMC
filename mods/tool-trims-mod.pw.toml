@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/GqdixiwC/versions/mQfyz2Qv/tooltrims-1.3.0%2Bmc1.21.9.jar"
-hash-format = "sha512"
-hash = "c31d194f2a4560c85c44a79683dda94b234692b37bca9e6db29889e02c7f963c896a2365b9b7844d5a9b8ec8b32155164b42e17f439249a598fece1caf9604da"
+hash-format = "sha256"
+hash = "5b79ce9c7c182c0cd15abc93bbda9731ed63f4d8625eba084f7e5d7ac2f38243"
 
 [update]
 [update.modrinth]

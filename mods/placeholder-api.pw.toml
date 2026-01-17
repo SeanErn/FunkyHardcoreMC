@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eXts2L7r/versions/OxuaGQ0s/placeholder-api-2.8.0%2B1.21.9.jar"
-hash-format = "sha512"
-hash = "5c9af5b43bdc6ba5049b39321852d66fc6ac26a6087752f3520383aed6f4fec18fb055dacc806fc5e629edab3e9d018d6779f0f7a31c9358c38738a1defc7719"
+hash-format = "sha256"
+hash = "1c383bd1300f2c7fedf7b085e70df64e62e619431a6713debe3bc394ec24392a"
 
 [update]
 [update.modrinth]

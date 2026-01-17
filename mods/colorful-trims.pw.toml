@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hCf7CjRg/versions/OUyfZnWE/colorful-trims-1.10.jar"
-hash-format = "sha512"
-hash = "d7dcd866a3f97110afb7755899a39d746927e75c7f9addc7135e5902b816a8c18dc46de9436d3d71b34dcfe21f5cbdf6cc7caff2ebd311729de19a24b0cd6319"
+hash-format = "sha256"
+hash = "12e7fc839a51514ce8b375005f6f091934fc8c086860ebc98eac09e5135a484a"
 
 [update]
 [update.modrinth]

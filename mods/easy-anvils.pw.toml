@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OZBR5JT5/versions/RRPRJ01x/EasyAnvils-v21.10.0%2Bmc1.21.10-Fabric.jar"
-hash-format = "sha512"
-hash = "0b1d987ed8354222453e200d791c5a7139ffa909c9226999b34cd02d7c61a72e5bc129bc4eb662d0dfcf436f2e9a58028eab9a51c9a59d42dac6b6741cfc8cfb"
+hash-format = "sha256"
+hash = "7fbe69f723a5deb00eabb6d07a57d01f1d67b4bf8ac03be22fe3ad97183a00df"
 
 [update]
 [update.modrinth]
