@@ -145,6 +145,11 @@ hash = "ed640cf1f394b921744669134cbea337f2ddedea1025166c4564e5435e7ca994"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "01d35ed6fc7c97e012273dda3a1fc960583296dc7753257191b842a11cb01a14"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "ee835f4dc551160d981cb557f1275f7ecde0487f61213490835009ff722e0016"
 metafile = true

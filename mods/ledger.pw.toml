@@ -1,0 +1,13 @@
+name = "Ledger"
+filename = "ledger-1.3.17.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LVN9ygNV/versions/UDnaslOG/ledger-1.3.17.jar"
+hash-format = "sha512"
+hash = "211c0b2d394bb4923ac5d2ce23bafaea5d90998436ef6e3c8911ad46dc33b80529fbaa079eee1e7b30daa8ac36022b9bfda60c5bcff45984153835ce5104d13a"
+
+[update]
+[update.modrinth]
+mod-id = "LVN9ygNV"
+version = "UDnaslOG"
