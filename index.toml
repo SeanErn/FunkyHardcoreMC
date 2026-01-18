@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "01d35ed6fc7c97e012273dda3a1fc960583296dc7753257191b842a11cb01a14"
+hash = "3096b474f9b1911027ca8981fc9675566241752c1df17226adcad5b141d38745"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "b6637110509503de5c77ce30430a21a4d2570d33c8589087f9384eb04995ec3e"
+hash = "34c8d02e5e9763aeaec0b61e27b59ce055e77705f1717e9101bcd8a35d6fbc30"
 metafile = true
 
 [[files]]
