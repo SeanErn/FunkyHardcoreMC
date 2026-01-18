@@ -280,6 +280,11 @@ hash = "c55c3b40f5e59a28a28462b8ee1019ef68d690c6059b67cf2038929eaa89c35f"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
+metafile = true
+
+[[files]]
 file = "mods/xaero-zoomout.pw.toml"
 hash = "b9f8c2b1230128dcb7f5ff71ddcffc0973aee470901cb1ba9223bda3ee5ae6dc"
 metafile = true
