@@ -1,13 +1,13 @@
 name = "Colorful Trims"
-filename = "colorful-trims-1.10.jar"
+filename = "colorful-trims-1.10.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hCf7CjRg/versions/OUyfZnWE/colorful-trims-1.10.jar"
-hash-format = "sha256"
-hash = "12e7fc839a51514ce8b375005f6f091934fc8c086860ebc98eac09e5135a484a"
+url = "https://cdn.modrinth.com/data/hCf7CjRg/versions/O7O972iZ/colorful-trims-1.10.1.jar"
+hash-format = "sha512"
+hash = "a3869a66e4844c43667fdd7d66544e519f0099d7d67b51f4db11ef818351f352a526673ea98e61bcfa4ea3be1b7b041e05e71979acd07f98fe8625305a996509"
 
 [update]
 [update.modrinth]
 mod-id = "hCf7CjRg"
-version = "OUyfZnWE"
+version = "O7O972iZ"
